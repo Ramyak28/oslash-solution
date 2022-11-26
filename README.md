@@ -1,5 +1,6 @@
 # oslash-solution
 college stationery shop problem
+Problem statement:
 Context
 
 College stationery shop is running its annual clearance sale. It is offering steep discounts on a few of the products for this exclusive sale event. They need your help in coming up with a bill calculator.
